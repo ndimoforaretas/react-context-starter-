@@ -11,7 +11,7 @@ This is a simple shop with a lot of `prop-drilling`! I therefore see it as the p
 
 ## How to use
 
-- Click on the `Use this template` button **(located at the top right corner a little above the Code button)**to create a new repository from this template.
+- Click on the `Use this template` button **(located at the top right corner a little above the Code button)** to create a new repository from this template.
 - Clone the repository to your local machine.
 - Run `npm install` to install the dependencies.
 
